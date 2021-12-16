@@ -18,7 +18,7 @@ const Main = () => {
         </Box>
         <Box display="flex" flexDirection="column" justifyContent={{ xs: 'center', md: "space-around" }} width="100%">
           <Selector />
-          <Description />
+//           <Description />
         </Box>
       </Box>
     </div>
